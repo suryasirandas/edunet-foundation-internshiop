@@ -1,2 +1,2 @@
-# edunet-foundation-internshiop
+# edunet-foundation-internship
 speech emotion recognition
